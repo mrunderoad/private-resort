@@ -9,9 +9,9 @@
 ## I learned markdown today, heres a list.
 1. This list is just a list.
 2. I wanted to make a list.
-3. This list is ordered, see the numbers on the side?
-4. The other list is an unordered list.
+3. This list is **ordered**, see the numbers on the side?
+4. The other list is an **unordered** list.
 
 ### Heres a link to my bands music!
-My band is called Cranefist, we have [one song finished](https://cranefistband.bandcamp.com/releases).
+My band is called *Cranefist*, we have [one song finished](https://cranefistband.bandcamp.com/releases).
 We really miss playing live shows and will have to wait until we find a new bass player.
