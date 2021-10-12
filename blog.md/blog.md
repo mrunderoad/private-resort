@@ -12,3 +12,5 @@
 3. This list is ordered, see the numbers on the side?
 4. The other list is an unordered list.
 
+### Heres a link to my bands music!
+My band is called Cranefist. We have [one song finished](https://cranefistband.bandcamp.com/releases).
