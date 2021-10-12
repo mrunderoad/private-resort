@@ -4,7 +4,7 @@
 * Learned about git branching and merging.
 * I had mac and cheese for lunch.
 * Got more familiar using git, HTML and CSS.
-* I used a lot of [Google](http://google.com/)
+* I used a lot of [Google](http://google.com/).
 
 ## I learned markdown today, heres a list.
 1. This list is just a list.
@@ -13,4 +13,5 @@
 4. The other list is an unordered list.
 
 ### Heres a link to my bands music!
-My band is called Cranefist. We have [one song finished](https://cranefistband.bandcamp.com/releases).
+My band is called Cranefist, we have [one song finished](https://cranefistband.bandcamp.com/releases).
+We really miss playing live shows and will have to wait until we find a new bass player.
